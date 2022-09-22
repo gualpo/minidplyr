@@ -8,5 +8,4 @@
 #' @examples
 onepercent <- function(x){
   x*.01
-  
 }
